@@ -25,41 +25,41 @@ Je recherche une alternance de 24 mois en Data Analytics, Business Intelligence 
 
 Data
 
-SQL
+- SQL
 
-PostgreSQL
+- PostgreSQL
 
-Excel
+- Excel
 
-Power BI
+- Power BI
 
 
 Développement
 
-PHP
+- PHP
 
-Laravel
+- Laravel
 
-React
+- React
 
-JavaScript
+- JavaScript
 
-Java
+- Java
 
 
 Outils
 
-Git
+- Git
 
-GitHub
+- GitHub
 
-GitLab
+- GitLab
 
-Docker
+- Docker
 
-Postman
+- Postman
 
-Swagger
+- Swagger
 
 📂 Projets
 
