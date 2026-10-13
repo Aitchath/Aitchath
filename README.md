@@ -1,29 +1,29 @@
-Bonjour, je suis Aïtchath Yessoufou 👋
+# Bonjour, je suis Aïtchath Yessoufou 
 
-🎓 Étudiante en Master 1 MIAGE à l'Université de Rennes
+Étudiante en Master 1 MIAGE à l'Université de Rennes
 
 Passionnée par la Data Analysis et la Business Intelligence, je développe progressivement mes compétences à travers des projets concrets autour de l'analyse de données, de la visualisation et de l'aide à la décision.
 
-🚀 Objectif
+# Objectif
 
 Je recherche une alternance de 24 mois en Data Analytics, Business Intelligence ou Data Management.
 
-👩‍💻 À propos de moi
+À propos de moi
 
-🎓 Master MIAGE - Université de Rennes
+- Master MIAGE - Université de Rennes
 
-📊 Intérêt pour la Data Analysis et la Business Intelligence
+- Intérêt pour la Data Analysis et la Business Intelligence
 
-💻 Expérience en développement Full-Stack
+- Expérience en développement Full-Stack
 
-🌱 Apprentissage continu à travers des projets personnels
+- Apprentissage continu à travers des projets personnels
 
-🎯 Construction d'un portfolio Data professionnel
+- Construction d'un portfolio Data professionnel
 
-🛠️ Technologies & Outils
+# Technologies & Outils
 
 
-Data
+# Data
 
 - SQL
 
@@ -34,7 +34,7 @@ Data
 - Power BI
 
 
-Développement
+# Développement
 
 - PHP
 
@@ -47,7 +47,7 @@ Développement
 - Java
 
 
-Outils
+# Outils
 
 - Git
 
@@ -61,16 +61,15 @@ Outils
 
 - Swagger
 
-📂 Projets
+# Projets
 
 📊 Analyse des ventes et des commandes annulées
 
 Projet réalisé avec Power BI dans le but d'analyser les performances commerciales et les commandes annulées.
 
-📌 Réalisations :
+Réalisations :
 
 - Nettoyage et préparation des données
-  
 - Création de KPI commerciaux
 - Analyse du chiffre d'affaires
 - Analyse des commandes annulées
@@ -82,14 +81,14 @@ Projet réalisé avec Power BI dans le but d'analyser les performances commercia
 
 🚧 Dépôt GitHub en cours de préparation
 
-📚 Ce que j'apprends actuellement
+# Ce que j'apprends actuellement
 SQL avancé
 Power BI
 Modélisation de données
 Data Visualisation
 
 
-📫 Me contacter
+# Me contacter
 
 LinkedIn : https://www.linkedin.com/in/aïtchath-ibilola-yessoufou/
 
